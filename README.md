@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to sing and play guitar
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/shadowpro98?si=Cy5L7C8jTJaEcK6G2-4Mhg)
 
 ### Connect with me:
 
