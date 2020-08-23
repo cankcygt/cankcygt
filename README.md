@@ -57,5 +57,5 @@
 </details>
 
 [discord]: https://discord.gg/Wv4GYaQ
-[instagram]: https://instagram.com/c.kcygt
+[instagram]: https://www.instagram.com/c.kocyigit/
 
