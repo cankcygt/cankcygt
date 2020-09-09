@@ -56,6 +56,6 @@
 
 </details>
 
-[discord]: https://discord.gg/Wv4GYaQ
+[discord]: https://discord.gg/SnphaaU
 [instagram]: https://www.instagram.com/c.kocyigit/
 
