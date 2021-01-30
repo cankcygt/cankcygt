@@ -58,8 +58,5 @@
   <img align="left" alt="cankcygt's Github Stats" src="https://github-readme-stats.cankcygt.vercel.app/api?username=cankcygt&show_icons=true&hide_border=true" />
 
 </details>
-[twitch]: https://www.twitch.tv/cannmeister
-[discord]: https://discord.gg/SnphaaU
-[youtube]: https://www.youtube.com/channel/UCUrLFcjG9F2m_oZxWiaJJDg
-[instagram]: https://www.instagram.com/c.kocyigit/
+
 
