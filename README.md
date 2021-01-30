@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cankcygt| Twitch" width="44px" src="https://i.ibb.co/KLcWbfm/icons8-twitch-48.png" />][twitch]
+[<img align="left" alt="cankcygt| Twitch" width="44px" src="https://i.ibb.co/KLcWbfm/icons8-twitch-48.png" />](twitch)
 [<img align="left" alt="cankcygt| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 [<img align="left" alt="cankcygt| Youtube" width="44px" src="https://i.ibb.co/nkYg5PZ/icons8-play-button-48.png" />][youtube]
 [<img align="left" alt="cankcygt | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
