@@ -32,11 +32,13 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="cankcygt's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=cankcygt&show_icons=true&theme=gotham&locale=en&layout=compact"/>
+   <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=cankcygt&show_icons=true&theme=gotham"/>
+  
+   <img align="right" alt="cankcygt's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=cankcygt&show_icons=true&theme=gotham&locale=en&layout=compact"/>
   
   
   
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cankcygt&show_icons=true&theme=gotham"/>
+
 </details>
 
 
