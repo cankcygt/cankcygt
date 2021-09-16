@@ -31,22 +31,9 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. undefined
-2. undefined
-3. undefined
-4. undefined
-5. undefined
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="cankcygt's Github Stats" src="https://github-readme-stats.cankcygt.vercel.app/api?username=cankcygt&show_icons=true&hide_border=true" />
+  <img align="left" alt="cankcygt's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=cankcygt&show_icons=true&locale=en&layout=compact" />
 
 </details>
 
