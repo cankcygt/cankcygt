@@ -3,9 +3,6 @@
 [![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/Wv4GYaQ)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cannmeister)
 
-### Spotify Playing 🎧
-[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/shadowpro98?si=Cy5L7C8jTJaEcK6G2-4Mhg)
-
 ### Connect with me:
 
 [<img align="left" alt="cankcygt| Twitch" width="44px" src="https://i.ibb.co/KLcWbfm/icons8-twitch-48.png" />](https://www.twitch.tv/cannmeister)
