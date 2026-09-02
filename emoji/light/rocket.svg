@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+<defs>
+<clipPath id="ce"><rect x="1" y="1" width="20" height="20" rx="6"/></clipPath>
+<linearGradient id="ge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.7"/><stop offset="1" stop-color="#fff" stop-opacity="0.25"/></linearGradient>
+<linearGradient id="se" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.95"/><stop offset="1" stop-color="#fff" stop-opacity="0.35"/></linearGradient>
+<filter id="be" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+<filter id="de" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.1"/></filter>
+</defs>
+<rect x="1" y="1" width="20" height="20" rx="6" fill="#F97316" fill-opacity="0.22" filter="url(#de)"/>
+<rect x="1" y="1" width="20" height="20" rx="6" fill="url(#ge)"/>
+<g clip-path="url(#ce)"><ellipse cx="7" cy="1" rx="10" ry="6" fill="#fff" opacity="0.3" filter="url(#be)"/></g>
+<rect x="1.5" y="1.5" width="19" height="19" rx="5.5" fill="none" stroke="url(#se)" stroke-width="1"/>
+<g transform="translate(4 4) scale(.5833)"><g fill="none" stroke="#d8681a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5" />   <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09" />   <path d="M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z" />   <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05" /></g></g>
+</svg>
